@@ -14,7 +14,7 @@ README = ROOT / "README.md"
 START_MARKER = "<!-- LEETCODE_STATS_START -->"
 END_MARKER = "<!-- LEETCODE_STATS_END -->"
 
-PROBLEM_DIRECTORY = re.compile(r"^\d{4,}-")
+PROBLEM_DIRECTORY = re.compile(r"^\d+-[a-z0-9]")
 DIFFICULTY_BADGE = re.compile(r"Difficulty-(Easy|Medium|Hard)-", re.IGNORECASE)
 
 LANGUAGE_BY_SUFFIX = {

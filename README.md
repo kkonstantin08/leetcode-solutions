@@ -7,10 +7,10 @@ Portfolio of accepted LeetCode solutions, synchronized automatically with [LeetS
 <!-- LEETCODE_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Problems solved | **0** |
-| Languages | **0** |
+| Problems solved | **1** |
+| Languages | **1** |
 | Last synced | 2026-09-24 09:15 UTC |
-| Easy | 0 |
+| Easy | 1 |
 | Medium | 0 |
 | Hard | 0 |
 <!-- LEETCODE_STATS_END -->
@@ -21,14 +21,16 @@ LeetSync creates one directory per problem:
 
 ```text
 leetcode-solutions/
-├── 0001-two-sum/
+├── 1-two-sum/
 │   ├── README.md       # problem statement and difficulty
 │   └── two-sum.py      # accepted solution
-├── 0020-valid-parentheses/
+├── 20-valid-parentheses/
 │   ├── README.md
 │   └── valid-parentheses.cpp
 └── README.md
 ```
+
+LeetSync uses the numeric problem ID as returned by LeetCode, so IDs are not zero-padded.
 
 Each problem directory can also contain `Notes.md` when notes are added in LeetSync.
 
