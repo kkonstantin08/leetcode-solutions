@@ -7,10 +7,10 @@ Portfolio of accepted LeetCode solutions, synchronized automatically with [LeetS
 <!-- LEETCODE_STATS_START -->
 | Metric | Value |
 |---|---:|
-| Problems solved | **1** |
+| Problems solved | **2** |
 | Languages | **1** |
-| Last synced | 2026-09-24 09:15 UTC |
-| Easy | 1 |
+| Last synced | 2026-09-24 09:31 UTC |
+| Easy | 2 |
 | Medium | 0 |
 | Hard | 0 |
 <!-- LEETCODE_STATS_END -->
